@@ -1,3 +1,3 @@
-# malakoi
+# Curso Digital: Git
 
-## Curso Digital Coders
+### Digital Coders
